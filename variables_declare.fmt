@@ -9,7 +9,7 @@ func main() {
 	i = 43
 	var j int = 45
 	k := 99
-//ei above 3ta format e variable declare kora jay
+	//ei above 3ta format e variable declare kora jay
 
 	fmt.Println(i)
 	fmt.Println(j)
@@ -17,5 +17,6 @@ func main() {
 }
 
 //go te variable declare korle seita use kortei hbe.. unused rakha jbena! Or else '{variable} declared not used.Go build failed' error asbe.
+\\Ei '\\' use kore comment kora hoy!
 
 
