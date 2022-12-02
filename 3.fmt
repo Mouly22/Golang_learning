@@ -1,0 +1,17 @@
+package main
+
+import (
+	"fmt"
+)
+
+var (
+	myName string = "Mouly"
+	myLang string = "Bangla"
+	myAge  int    = 21
+)
+
+func main() {
+
+	fmt.Printf(myName)
+
+}
