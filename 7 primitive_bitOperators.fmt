@@ -1,0 +1,22 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	a := 10 //binary value is: 1010
+	b := 3  //binary value is: 0011
+	fmt.Println(a & b)                 //OR operator: 0010
+	fmt.Println(a | b)                 //AND operator: 1011
+	fmt.Println(a ^ b)                 //XOR operator: 1001
+	fmt.Println(a &^ b)                //NOR operator: 0100
+
+}
+
+
+#Output:
+2
+11
+9
+8
