@@ -1,6 +1,6 @@
 # Go Language
 
-Go is a statically typed, compiled programming language which is syntactically similar to C.
+***Go is a statically typed, compiled programming language which is syntactically similar to C.***
 
 Golang is designed to support the building of small, functional microservices. While it's similar to C, it adds a variety of next-gen features: garbage collection, structural typing, and memory management. Go is much faster than many other languages, especially interpreted languages such as Python.
 
