@@ -14,5 +14,6 @@ var (
 func main() {
 
 	fmt.Printf(myName)
+	fmt.Pirntf("%v, %T", myName, string)
 
 }
