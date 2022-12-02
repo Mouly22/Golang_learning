@@ -13,7 +13,9 @@ var (
 
 func main() {
 
-	fmt.Printf(myName)
-	fmt.Pirntf("%v, %T", myName, string)
+	
+	//fmt.Printf(myName)                     #Output: Mouly
+	fmt.Printf("%v, %T", myName, myName)     #Output: Mouly, string
+
 
 }
