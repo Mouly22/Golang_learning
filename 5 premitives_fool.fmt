@@ -12,3 +12,20 @@ func main() {
 	//in Go, every variable initialize with zero as default.
 
 }
+
+//Don't print multiple package in a SINGLE page, I have written it just for comparison.
+
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	var p bool        \\Output: false, bool   
+	fmt.Printf("%v, %T", p, p)     
+	\\everytime we initialize a value it's default value is ZERO. In go, the ZERO means false.
+	
+
+}
+
