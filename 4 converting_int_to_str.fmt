@@ -1,0 +1,16 @@
+package main
+
+import (
+	"fmt"
+	"strconv"
+)
+
+func main() {
+	var i int = 45
+	fmt.Printf("%v, %T", i, i) //Output: 45, int
+
+	var j string
+	j = strconv.Itoa(i)
+	print(j)
+
+}
