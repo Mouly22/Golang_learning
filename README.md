@@ -6,5 +6,5 @@ Golang is designed to support the building of small, functional microservices. W
 
 Go is meant to be simple to learn, straightforward to work with, and easy to read by other developers. Go does not have a large feature set, especially when compared to languages like C++. Go is reminiscent of C in its syntax, making it relatively easy for longtime C developers to learn.
 
-Learn more from Go documentation[https://go.dev/doc/]
+Learn more from [Go documentation](https://go.dev/doc/)
  
