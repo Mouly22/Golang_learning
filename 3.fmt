@@ -5,6 +5,7 @@ import (
 )
 
 var (
+//
 	myName string = "Mouly"
 	myLang string = "Bangla"
 	myAge  int    = 21
