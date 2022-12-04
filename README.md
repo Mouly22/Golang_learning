@@ -1,4 +1,4 @@
-# Go Language <img src = "https://tenor.com/en-GB/view/golang-gif-14977366" width = 100>
+# Go Language <img src = "<div class="tenor-gif-embed" data-postid="14977366" data-share-method="host" data-aspect-ratio="1.76796" data-width="100%"><a href="https://tenor.com/view/golang-gif-14977366">Golang GIF</a>from <a href="https://tenor.com/search/golang-gifs">Golang GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width = 50>
 
 ***Go is a statically typed, compiled programming language which is syntactically similar to C.***
 
