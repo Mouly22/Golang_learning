@@ -1,0 +1,14 @@
+package main
+
+import "fmt"
+
+func main() {
+	s := "This is a string. "
+	fmt.Printf("%v, %T\n", s, s)               //Output: This is a string, string
+	fmt.Printf("%v, %T\n", s[2], s[2])         //Output: 105, uint8(UINT8 is an 8-bit unsigned integer, so it's first bit is not reserved for signing)
+	fmt.Printf("%v, %T\n", string(s[2]), s[2]) //Output: i, uint8
+	//s[2] := "m"                              -------> strings are immutable, so we can not do it.
+	s2 := "We can concetanate"
+	fmt.Printf("%v, %T\n", s+s2, s)           //Output: this is possible
+           
+}
