@@ -1,4 +1,4 @@
-# Go Language <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
+# Go Language <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40">
 
 ***Go is a statically typed, compiled programming language which is syntactically similar to C.***
 
