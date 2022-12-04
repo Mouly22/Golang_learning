@@ -1,4 +1,4 @@
-# Go Language
+# Go Language <img src = "https://tenor.com/en-GB/view/golang-gif-14977366" width = 100>
 
 ***Go is a statically typed, compiled programming language which is syntactically similar to C.***
 
