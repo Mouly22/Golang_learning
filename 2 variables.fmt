@@ -5,14 +5,14 @@ import (
 )
 
 func main() {	
-	//ex 1
+	//ex 1 --------------------
 	var i int
 	i = 43
 	//var j int = 45
 	//k := 99
 	fmt.Printf("%v, %T", i, i) //output: 43, int
 	
-	//ex 2
+	//ex 2 -------------------
 	var p float32
 	p = 43.4
 	fmt.Printf("%v, %T", p, p) //output: 43, float32
