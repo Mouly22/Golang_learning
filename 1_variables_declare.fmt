@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-
+//while declaring a variaqble, ww need 'name, data and type' of it.
 func main() {
 	var i int
 	i = 43
