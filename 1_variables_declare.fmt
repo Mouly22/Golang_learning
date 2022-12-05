@@ -10,10 +10,13 @@ func main() {
 	var j int = 45        //declared and assignmed variable together.
 	k := 99
 	//ei above 3ta format e variable declare kora jay
+	const id int = 2      //evabe constant variable declare kore
+	       
 
 	fmt.Println(i)
 	fmt.Println(j)
 	fmt.Println(k)
+	fmt.println(id) 
 }
 
 //go te variable declare korle seita use kortei hbe.. unused rakha jbena! Or else '{variable} declared not used.Go build failed' error asbe.
