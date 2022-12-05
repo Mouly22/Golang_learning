@@ -16,7 +16,7 @@ func main() {
 	fmt.Println(i)
 	fmt.Println(j)
 	fmt.Println(k)
-	fmt.println(id) 
+	fmt.Println(id) 
 }
 
 //go te variable declare korle seita use kortei hbe.. unused rakha jbena! Or else '{variable} declared not used.Go build failed' error asbe.
