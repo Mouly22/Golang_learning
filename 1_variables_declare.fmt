@@ -11,9 +11,12 @@ import (
 func main() {
 	var i int             //just declaring a variable, not assigned any value yet.
 	i = 43                //assigning value to a predeclared variable.
+	
 	var j int = 45        //declared and assignmed variable together.
-	k := 99
+	
+	k := 99              //shortcut for declaring a variable
 	//ei above 3ta format e variable declare kora jay
+	
 	const id int = 2      //evabe constant variable declare kore
 	       
 
