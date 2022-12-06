@@ -3,7 +3,11 @@ package main
 import (
 	"fmt"
 )
-//while declaring a variaqble, ww need 'name, data and type' of it.
+//while declaring a variaqble, ww need 'data, name and type' of it.
+// data means --> declaring whether it is var or const
+// name means --> name of the variable
+// type means --> int/float32/str
+
 func main() {
 	var i int             //just declaring a variable, not assigned any value yet.
 	i = 43                //assigning value to a predeclared variable.
